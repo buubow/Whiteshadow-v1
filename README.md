@@ -34,7 +34,7 @@ Use our official site to pair your WhatsApp with the bot easily:
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/chamod-bot-ctrl/Whiteshadow-v0.1.git 
-cd Whiteshadow-v0.1
+git clone https://github.com/cnw-os/Whiteshadow-v1.git 
+cd Whiteshadow-v1
 npm install
 node index.js
