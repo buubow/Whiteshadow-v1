@@ -12,7 +12,7 @@ lite({
     category: "main",
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/chamod-bot-ctrl/Whiteshadow-v0.1.git';
+    const githubRepoURL = 'https://github.com/cnw-os/Whiteshadow-v1.git';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
