@@ -39,7 +39,7 @@ lite({
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'https://files.catbox.moe/fyr37r.jpg',
+                    newsletterJid: '120363317972190466@newsletter',
                     newsletterName: 'Whiteshadow 👑️',
                     serverMessageId: 143
                 }
