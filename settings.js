@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "White-MD~PMtwVZJB#8tlNyAu2u4RiAX7C0kzHfyFBR1QN0L0bYFjRe7V7wCY",
+    SESSION_ID: process.env.SESSION_ID || "White-MD~5QQknLRC#NXTpbGzBiU92ckbR8GV_qkUzGKlEYz65r_jbZENSxZQ",
     // add your Session Id here|seccion id එක මෙතනට දාන්න.
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "WHITESHADOW-MD",
+    BOT_NAME: process.env.BOT_NAME || "ABINASIR-HACKER",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
     // make true if you want auto reply on status 
 
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Whiteshadow *",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY abdinasirhacker *",
     // set the auto reply message on status reply  
 
     WELCOME: process.env.WELCOME || "true",
@@ -64,7 +64,7 @@ module.exports = {
 > Whatsapp : https://whatsapp.com/channel/0029Vak4dFAHQbSBzyxlGG13`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "WHITE SHADOW",
+    STICKER_NAME: process.env.STICKER_NAME || "Abdinasir HACKER",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -79,7 +79,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "94704896880",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "WHITE SHADOW",
+    OWNER_NAME: process.env.OWNER_NAME || "ABDINASIR Hacker",
     // add bot owner name
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Whiteshadow*",
